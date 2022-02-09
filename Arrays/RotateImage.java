@@ -1,4 +1,4 @@
-class Solution {
+class RotateImage {
     public void rotate(int[][] matrix) {
         
         // transpose
