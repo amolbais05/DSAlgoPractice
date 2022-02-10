@@ -18,5 +18,7 @@ public class Inputs {
         System.out.print("Please marks : ");
         float marks = scanner.nextFloat();
         System.out.println("Your name : "+marks);
+
+        scanner.close();
     }
 }
